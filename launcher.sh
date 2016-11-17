@@ -2,5 +2,4 @@
 
 mkdir -p output/
 
-
 exit 0
